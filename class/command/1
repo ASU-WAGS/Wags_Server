@@ -1,0 +1,4 @@
+/tmp/magnets/Admin/Student.java:4: error: 'else' without 'if'
+   else if (num2 >= num1 && num2 >= num3) {
+   ^
+1 error
